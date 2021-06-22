@@ -1,0 +1,95 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: black;
+
+}
+h1{
+
+    margin-left: 450px;
+    color: gray;
+    font-size: xxx-large;
+}
+p{
+
+    margin: 5% ;
+    justify-content: center;
+    font-family: "Yu Gothic UI Light";
+    font-weight: bolder;
+    font-size: large;
+}
+.uno{
+    margin-top: 50px;
+    color:black;
+    border: black;
+}
+
+.dos{
+    margin-top: 50px;
+
+    color:black;
+}
+
+.tres{
+    margin-top: 50px;
+    color:black;
+}
+
+.cuatro{
+    margin-top: 50px;
+    color:black;
+}
+
+.cinco{
+    margin-top: 50px;
+    color: black;
+}
+
+.papa{
+
+    justify-content: center;
+    margin-top: 200px;
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+
+}
+
+.nombre{
+    border:darkolivegreen solid 10px;
+    margin-left: 20%;
+    background-color: darkslategrey;
+    width: 20%;
+    height: 250px;
+}
+
+.intereses{
+    border:darkslategrey solid 10px;
+    background-color: slategray;
+    width: 20%;
+    height: 250px;
+}
+
+.megustaria{
+    border:slategray solid 10px;
+    background-color: dimgrey;
+    width: 20%;
+    height: 250px;
+}
+
+.expectativas{
+    border:dimgrey solid 10px;
+    background-color: cadetblue;
+    width: 20%;
+    height: 250px;
+}
+
+.hobbies{
+    border:cadetblue solid 10px;
+    background-color: darkolivegreen;
+    width: 20%;
+    height: 250px;
+}
